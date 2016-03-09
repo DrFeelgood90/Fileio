@@ -20,7 +20,9 @@ public class Fileio {
 	 * @throws IOException 
 	 */
 	public static void main(String[] args) throws IOException {
-
+		
+		
+tfgfu
 		File fi = new File("C:\\Users\\Andrea\\Desktop\\Corso Android\\Java\\file.txt");
 		//File fiw = new File("C:\\Utenti\\effetto\\file.txt");
 		
